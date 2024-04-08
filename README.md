@@ -1,4 +1,7 @@
-- 👋 Hi, iam ahmed mohamed
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=&size=35&center=true&vCenter=true&width=600&height=90&duration=4500&lines=Hi!+👋;+I'm+Ahmed+Mohamed+Ahmed!;" />
+</h1>
+- 👋 Hi, iam ahmed mohamed ahmed
 - iam a student at fcai cairo university
 - 🌱 I’m currently learning cpp , mobile developement using kotlin
 
