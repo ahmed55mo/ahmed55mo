@@ -1,9 +1,13 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=&size=35&center=true&vCenter=true&width=600&height=90&duration=4500&lines=Hi!+👋;+I'm+Ahmed+Mohamed+Ahmed!;" />
 </h1>
-- 👋 Hi, Iam Ahmed Mohamed Ahmed
-- Iam a student at Fcai Cairo University
-- 🌱 I’m currently learning cpp , mobile developement using kotlin
+
+- 👋 Hi, I am Ahmed Mohamed Ahmed.
+
+- I am a student at FCAI Cairo University.
+  
+- 🌱 I am currently learning cpp , mobile developement using kotlin.
+  
 
 
 <!---
