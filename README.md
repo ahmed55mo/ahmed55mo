@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 👋 Hi, I am Ahmed Mohamed Ahmed.<br><br>- I am a student at FCAI Cairo University.<br>  <br>- 🌱 I am currently learning cpp , fullstack development with laravell framework.<br><br>-I learned mobile application development with kotlin <br><br>-Also I learned some basics of AI , Machine learning and deep learning</p>
+<p align="left">- 👋 Hi, I am Ahmed Mohamed Ahmed.<br><br>- I am a student at FCAI Cairo University.<br>  <br>- 🌱 I am currently learning cpp , fullstack development with laravell framework.<br><br>-Also I learned some basics of AI , Machine learning and deep learning</p>
 
 ###
 
